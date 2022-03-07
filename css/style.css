@@ -157,13 +157,12 @@ font-size: 16px;
   .title {
     font-weight: 100;
     color: transparent;
-    font-size: 120px;
+    font-size: 65px;
     background: url("../images/logos/rainbow-nebula.jpg") repeat;
     background-position: 40% 50%;
     -webkit-background-clip: text;
     position: relative;
     text-align: center;
-    letter-spacing: -8px;
   }
   
   .name-text
@@ -419,6 +418,14 @@ font-size: 16px;
       grid-column: 1;
       grid-row: 1;
     }
+    .name-text
+    {
+            padding: 10px 0px;
+        font-weight: 800;
+        font-size: 80px;
+        line-height: 87px;
+        text-align: center;
+    }
   
     
   }
@@ -440,6 +447,19 @@ font-size: 16px;
     
     .showcase-form {
       width: 300px;
+    }
+    .languages {
+        margin-top: 70px;
+    }
+    .showcase-form {
+        top: 0px;
+    }
+    .stats {
+         padding-top: 30px; 
+    }
+    .title {
+     
+        letter-spacing: -4px;
     }
   }
  
