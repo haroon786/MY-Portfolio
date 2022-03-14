@@ -74,7 +74,7 @@ img {
   font-weight: 100;
   color: transparent;
   font-size: 65px;
-  background: url("../images/logos/rainbow-nebula.jpg") repeat;
+  background: url("https://res.cloudinary.com/dolocb1fl/image/upload/v1647284837/rainbow-nebula-min_kovr86.jpg") repeat;
   background-position: 40% 50%;
   -webkit-background-clip: text;
   position: relative;
@@ -85,7 +85,7 @@ img {
   font-weight: 1000;
   color: transparent;
   font-size: 120px;
-  background: url("../images/logos/rainbow-nebula.jpg") repeat;
+  background: url("https://res.cloudinary.com/dolocb1fl/image/upload/v1647284837/rainbow-nebula-min_kovr86.jpg") repeat;
   -webkit-background-clip: text;
   background-position: 40% 50%;
 }
